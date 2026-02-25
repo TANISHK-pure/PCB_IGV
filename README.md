@@ -23,13 +23,6 @@ Heavy DC motors generate massive electromagnetic interference (EMI). I implement
 4. Plug-and-Play Competition Readiness
 Designed custom male/female header breakouts for front/rear motor drivers (PWM/DIR), cooling fans, and four independent optical encoders. This modular approach allows for instant hot-swapping of damaged external hardware during live competition scenarios.
 
-📐 PCB Renders & Layout
-(Showcasing the physical board design and spatial routing strategy)
-
-3D Board Render:
-
-2D Copper Routing Layout:
-
 🚦 Manufacturing Status
 DRC Check: Cleared (0 Errors)
 
